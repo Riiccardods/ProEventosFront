@@ -7,4 +7,27 @@ import { Component } from '@angular/core';
 })
 export class EventosComponent {
 
+
+
+
+  public eventos: any = [
+    {
+    Tema: 'Angular',
+    Local: 'Belo horizonte'
+    },
+
+    {
+      Tema: '.net',
+      Local: 'Brasilia'
+      },
+
+      {
+        Tema: 'Angular e sua novidades',
+        Local: 'Rio de janeiro'
+        }
+
+]
+
 }
+
+
