@@ -6,7 +6,6 @@ import { AppComponent } from './app.component';
 import { EventosComponent } from './eventos/eventos.component';
 import { PalestrantesComponent } from './palestrantes/palestrantes.component';
 
-
 @NgModule({
   declarations: [
     AppComponent,
