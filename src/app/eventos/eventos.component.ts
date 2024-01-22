@@ -9,7 +9,6 @@ export class EventosComponent {
 
 
 
-
   public eventos: any = [
     {
     Tema: 'Angular',
